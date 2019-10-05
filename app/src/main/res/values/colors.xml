@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorGray">#FC3C3D3D</color>
+    <color name="colorAngesBottom">#FF003C</color>
+    <color name="colorAngesTop">#FF6499</color>
+    <color name="colorKevinBottom">#FF582A</color>
+    <color name="colorKevinTop">#FFB262</color>
+    <color name="color1">#FF093A</color>
+    <color name="color2">#FF9F24</color>
+    <color name="color3">#939093</color>
+    <color name="color4">#73FF4C</color>
+    <color name="color5">#00FBA5</color>
+    <color name="color6">#A600A8</color>
+    <color name="color7">#4F7283</color>
+    <color name="color8">#FF006C</color>
+    <color name="color9">#070707</color>
+    <color name="color10">#633B4C</color>
+
+</resources>
